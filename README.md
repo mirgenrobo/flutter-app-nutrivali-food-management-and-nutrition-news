@@ -1,5 +1,4 @@
 # Flutter full app development challenge - Nutrivali: Food management and nutrition news
-> Creator Qani Ajdini
 
 ## Google Play Store
 [<img src ="https://github.com/qani-ajdini/flutter-app-nutrivali-food-management-and-nutrition-news/blob/master/docs/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.willdev.potinhos)
